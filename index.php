@@ -1,7 +1,7 @@
 <?php
 
 // Configuração da API
-$apiKey = '32b2e2d267e142c8a0c191810250602'; // Insira sua chave da Weather API
+$apiKey = '32b2e2d267e142c8a0c191810250602';
 $baseUrl = 'http://api.weatherapi.com/v1/forecast.json';
 
 // Mapeamento de condições climáticas para imagens
